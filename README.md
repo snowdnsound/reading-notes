@@ -9,6 +9,7 @@
 * There was a time when "they" couldn't either. How'd they get to where they are now. 
 
 ## About Me
-My name is Justin Benjamin, I live in Seattle and work on the tech industry. I love to travel, get outside, make music and am a total space nerd. :alien:
- 
+My name is Justin Benjamin, I live in Seattle and work on the tech industry. I love to travel, get outside, make music and am a total space nerd.  
+![This is my band logo](https://github.com/snowdnsound/reading-notes/blob/main/HexCave_StandardColors_sv.png)
+
 Here is a [link](https://github.com/snowdnsound) to my GitHub Portfolio!
