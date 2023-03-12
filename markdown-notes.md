@@ -17,13 +17,13 @@ The "pound" or "hashtag" symbol, whatever you call ---> **"#"**
 Just one. 
 
 ## How many do you need to create the smallest heading?
-Six of em. 
+Six of them.
 
 ## When making text bold or italicized for emphasis, it is best practice to use which symbol?
-It is a best practice to use the asterisk **"*"** symbol. Two for bold, or one for italicized, on each side of what you want to affect. 
+It is a best practice to use the asterisk "*" symbol. Two for bold, or one for italicized, on each side of what you want to affect. 
 
 ## How do you create a link with Markdown?
-Place the word you want to link in brackets [link] and then place the URL to link to in parentheses (www.google.com)
+Place the word you want to link in brackets "[link]" and then place the URL to link to in parentheses "(www.google.com)"
 It will look like so:
 
 [link](www.google.com)
