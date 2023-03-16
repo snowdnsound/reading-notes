@@ -21,21 +21,22 @@ The Command Line (CL) is another name for that black box called Termainal that y
 
 **Line 6** Shows us a prompt again. This will appear once the command is done running and the terminal/CL is ready to receive another command. If no prompt is displayed, then it is probably still running (you will learn how do deal with this later).
 
-# Opening the Terminal
+## Opening the Terminal
 
 * If you are on a Mac, press command key+space bar and type in "Termainal", then hit enter. Boom!
 * If on Linux, look in Applications > System or Applicaions > Utilities
 * Else If Windows, and intend to remotely login, use an SSH client like [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 
-# The Shell (Bash)
+## The Shell (Bash)
 
 Within a termainal, you have a shell. This is the part of the OS that defines how the terminal will behave and looks after running commands for you. There are many shells available but the most common one is called "bash" (Bourne again shell) **PUN ALERT** a pun on Stephen Bourne, author of the Bourne shell. 
 
 If you would like to know which shell you are using you can type the command into terminal:  
 `echo $HELL`  
-`/bin/bash
-`user@bash:
+`/bin/bash`    
+`user@bash:`  
 
 # Basic Navigation
+
 
 
