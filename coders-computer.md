@@ -6,3 +6,19 @@ The Command Line (CL) is another name for that black box called Termainal that y
 - One for viewing ancillary data
 - One for viewing manual pages
 
+## So What is it Exactly?
+
+`1 user@bash: ls -l /home/ryan`  
+`2 total 3`  
+`3 drwxr-xr-x  2 ryan users 4096 Mar 23 13:34 bin`  
+`4 drwxr-xr-x 18 ryan users 4096 Feb 17 09:12 Documents`  
+`5 drwxr-xr-x  2 ryan users 4096 May 05 17:25 public_html`  
+`6 user@bash:`  
+
+**Line 1** presents us with a prompt, which after we enter a command (ls) which is often the first thing you type, sometimes followed by a (CLA) command line argument (-l /home/ryan). Note that these two things **must** be separated by spaces. This CLA is also referred to as an "option", which are typically used to modify a command. They are usually listed before other aguments and represented by a dash "-" thingie.
+
+**Line 2 - 5** is what gets output as a result of entering a command. Not all commands show an output, but that doesn't mean nothing is happening, like displaying sensitive data such as your password. Unless of course there was an error, which it would probably tell you, "hey that was not right."
+
+**Line 6** Shows us a prompt again. This will appear once the command is done running and the terminal/CL is ready to receive another command. If no prompt is displayed, then it is probably still running (you will learn how do deal with this later).
+
+
