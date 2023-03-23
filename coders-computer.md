@@ -38,6 +38,8 @@ If you would like to know which shell you are using you can type the command int
 
 # Basic Navigation
 
+## Where Am I?
+
 To figuure out where we are we will use the command "pwd" (Print Working Directory). This will tell you what the current working directory is. It can be easy to loose your place in the termainal so this is helpful. We can use "ls" as a command to tell us what is there. You can add optional parts by using brackets such as `ls [options] [location]`.  
 
 We can use this command in more powerful ways, explored below:  
@@ -62,7 +64,64 @@ We can use this command in more powerful ways, explored below:
 `18 ...`  
 `19 user@bash:`  
 
-**Line 1** is the most basic was to use the command 
+**Line 1** is the most basic way to use the command and listed the contents of our current directory.
+
+**Line 4** This is ls with a single command line option ( -l ) which means we are going to do a long listing. A long listing has the following:  
+* First character indicates whether it is a normal file ( - ) or directory ( d )
+* Next 9 characters are permissions for the file or directory
+* The next field is the number of blocks 
+* The next field is the owner of the file or directory (ryan in this case)
+* The next field is the group the file or directory belongs to (users in this case)
+* Following this is the file size
+* Next up is the file modification time
+* Finally we have the actual name of the file or directory
+
+**Line 10** Has been ran with a command line argument ( /etc ). This tells "ls" not to list our current directory but instead to list that directories contents.
+
+**Line 13** This is ls ran with both a command line option and argument. It did a long listing of the directory /etc.
+
+**Lines 12 and 18** just indicate that I have cut out some of the commands normal output for demonstration purposes. When you run the commands you will see a longer listing of files and directories.
+
+
+## Absolute & Relative Paths
+
+When we refer to a file or directory in the command line we are referring to a path. There are two types of paths, "absolute" and "relative". We can use either type of path and the system will be directed to the same location. At the top of the structure is the root directory, denoted by a single slash "/" and inside of those are subdirectories.  
+
+Absolute paths - specify a location (file or directory) in relation to the root directory. They always begin with a forward slash.  
+Relative paths - specify a location (file or directory) in relation to where you currently are in the system. They do not start with a slash.  
+
+`4 user@bash: ls Documents`  
+`5 file1.txt file2.txt file3.txt`  
+`6 ...`  
+`7 user@bash: ls /home/ryan/Documents`  
+`8 file1.txt file2.txt file3.txt`  
+`9 ...`  
+
+**Line 4** We ran ls providing it with a relative path. Documents is a directory in our current location. This will return different results depending on where we are in the system. For example, if we were in Cam's documents and not Ryans.  
+
+**Line 7** We ran ls with an absolute path and so this command will provide the same output no matter regardless of our current location. 
+
+Here are some more building blocks to build your paths with:
+
+* ~ (tilde) - This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents
+* . (dot) - This is a reference to your current directory. eg in the example above we referred to Documents on line 4 with a relative path. It could also be written as ./Documents (Normally this extra bit is not required but in later sections we will see where it comes in handy).
+* .. (dotdot)- This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory.
+
+You can use any of these to build your paths and the best approach is whichever is most convenient to you!
+
+## Jump Around
+
+No this is not referencing that House of Pain song... let's use the command cd [location] (change directory) to move around the system. Typically it is ran with a single command line argument, which is the location we would like to go to. The location is specified as a path which can be an absolute or relative path. You can even use some of the building blocks from above like so:
+
+`cd ~/Documents`  
+`cd ../../`  
+
+You can also use a handy tool called **Tab Completion** which will autocomplete as you start to type a path! 
+
+
+
+
+
 
 
 
