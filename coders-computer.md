@@ -137,6 +137,40 @@ Escape Characters - we can use a backslash which escapes or "nullifies" the spec
 If the file name "begins" with a "." then it is hidden. To make a file or directory hidden, all you need to do is make it with it's name beginning with a "." or rename it to be so. You can also do the reverse of this to make a file/directory unhidden. The command "ls" will not list hidden files, however we can use the command line option "-a" so that it does show what is hidden. 
 
 
+# Answer
+
+1. What are four important features to look for in a text editor?  
+* an auto-complete
+* an error checker
+* having a preview of your code
+* can change the color scheme to fit your vision comfort level
+
+
+2. What do the following commands do?
+pwd - shows you where you are in the system
+ls - lists the files in current directory 
+cd - allows you to change directory
+mkdir - makes a new folder/directory
+touch - makes a new file
+
+3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
+  
+cd projects  
+- this changes the directory to location projects
+
+mkdir new-project
+- This creates a new folder called "new-project"
+
+touch new-project/newfile.md
+- this make a new file with extension .md
+
+cd ..
+- this moves you back a directory and the number of dots equates to how far you go back
+
+ls projects/new-project
+- this would list the contents of what is inside the new-projects folder
+
+
 
 
 
