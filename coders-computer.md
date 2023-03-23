@@ -38,6 +38,34 @@ If you would like to know which shell you are using you can type the command int
 
 # Basic Navigation
 
+To figuure out where we are we will use the command "pwd" (Print Working Directory). This will tell you what the current working directory is. It can be easy to loose your place in the termainal so this is helpful. We can use "ls" as a command to tell us what is there. You can add optional parts by using brackets such as `ls [options] [location]`.  
+
+We can use this command in more powerful ways, explored below:  
+
+`1 user@bash: ls`
+`2 bin Documents public_html`  
+`3 user@bash:`  
+`4 user@bash: ls -l`  
+`5 total 3`  
+`6 drwxr-xr-x  2 ryan users 4096 Mar 23 13:34 bin`  
+`7 drwxr-xr-x 18 ryan users 4096 Feb 17 09:12 Documents`  
+`8 drwxr-xr-x  2 ryan users 4096 May 05 17:25 public_html`
+`9 user@bash:`
+`10 ls /etc`  
+`11 user@bash: a2ps.cfg aliases alsa.d cups fonts my.conf systemd`  
+`12 ...`  
+`13 user@bash: ls -l /etc`  
+`14 total 3`  
+`15 user@bash: -rwxr-xr-x  2 root root 123 Mar 23 13:34 a2ps.cfg`  
+`16 -rwxr-xr-x 18 root root 78 Feb 17 09:12 aliases`  
+`17 drwxr-xr-x  2 ryan users 4096 May 05 17:25 alsa.d`  
+`18 ...`  
+`19 user@bash:`  
+
+**Line 1** is the most basic was to use the command 
+
+
+
 
 
 
