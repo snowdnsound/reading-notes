@@ -147,11 +147,11 @@ If the file name "begins" with a "." then it is hidden. To make a file or direct
 
 
 2. What do the following commands do?
-pwd - shows you where you are in the system
-ls - lists the files in current directory 
-cd - allows you to change directory
-mkdir - makes a new folder/directory
-touch - makes a new file
+pwd - shows you where you are in the system  
+ls - lists the files in current directory   
+cd - allows you to change directory  
+mkdir - makes a new folder/directory  
+touch - makes a new file  
 
 3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
   
