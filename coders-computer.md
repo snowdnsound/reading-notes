@@ -1,3 +1,7 @@
+# Choosing a Text Editor
+
+Atom is a pretty sweet code editor as well as text wrangler. A text editor allows you to edit your code (as the name would suggest). A good one has a robust set of code completion, different themes, extensions and error checking to help you spot mistakes. There are also text editors and IDEs. An IDE (Integrated Development Environment) is a suite of different software all combined. A text editor, a file manager, a compiler, and a debugger all in one software package. An example would be Xcode on a Mac. 
+
 # The Command Line
 
 The Command Line (CL) is another name for that black box called Termainal that you may have entered commands into or see runnign in the background. It's a text based interface to a system where you can put in commands and it prints out feedback. Don't think of it as leaving the GUI behind, but more like adding to it. You can have as many command line windows open as you want, running tasks **simultaneously.** Typically you might have three windows open. 
@@ -140,10 +144,10 @@ If the file name "begins" with a "." then it is hidden. To make a file or direct
 # Answer
 
 1. What are four important features to look for in a text editor?  
-* an auto-complete
-* an error checker
-* having a preview of your code
-* can change the color scheme to fit your vision comfort level
+* a code auto-complete 
+* syntax highlighting (error checking)
+* variety of themes to fit your vision comfort level
+* a healthy selection of extensions 
 
 
 2. What do the following commands do?
