@@ -118,6 +118,29 @@ No this is not referencing that House of Pain song... let's use the command cd [
 
 You can also use a handy tool called **Tab Completion** which will autocomplete as you start to type a path! 
 
+# More About Files
+
+## Keep in Mind with Linux
+
+Everything is awes-... a file!  
+A directory is a file, your keyboard (ready only) and monitor (write only) are a file. Keep this in mind and it will help you understand what is happening under the hood. 
+
+Linux is an extensionless system. A file extension is usually a 2-4 character set at the end of a file like Picture.png or Document.txt.  In other operating systems, like Windows, this is important and the system uses it to determine the file type. Linus is also case senstive, unlike Windows which is not. Another thing to keep in mind is when using spaces in names. A space on a command line is how we seperate CLAs. If we typed "Holiday Photos" the terminal would see these are two different arguments. We can solve this in two ways:  
+
+Quotes - we can put single or double quotes around the item "holiday photos" 
+Escape Characters - we can use a backslash which escapes or "nullifies" the special meaning of the next charcter. Holiday\ Photos
+
+(In the previous section we learnt about something called Tab Completion. If you use that before encountering the space in the directory name then the terminal will automatically escape any spaces in the name for you.)
+
+## Hidden Files & Directories
+
+If the file name "begins" with a "." then it is hidden. To make a file or directory hidden, all you need to do is make it with it's name beginning with a "." or rename it to be so. You can also do the reverse of this to make a file/directory unhidden. The command "ls" will not list hidden files, however we can use the command line option "-a" so that it does show what is hidden. 
+
+
+
+
+
+
 
 
 
