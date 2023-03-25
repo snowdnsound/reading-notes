@@ -1,4 +1,4 @@
-# Revisions and the CLoud
+# Revisions and the Cloud
 
 ## Version Control
 
