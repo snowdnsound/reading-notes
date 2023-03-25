@@ -20,18 +20,18 @@ This website contains all of my reading notes!
 * Class 08 - [Operators and Loops](https://snowdnsound.github.io/reading-notes/102/operators-and-loops)
 
 ### **Course 201**
-* Class 01 - 
-* Class 02 - 
-* Class 03 - 
-* Class 04 - 
-* Class 05 - 
-* Class 06 - 
-* Class 07 - 
-* Class 08 - 
-* Class 09 - 
-* Class 10 - 
-* Class 11- 
-* Class 12 - 
-* Class 13 - 
-* Class 14 - 
-* Class 15 - 
+* Class 01 - [Future Link 1](https://snowdnsound.github.io/reading-notes/201/file1)
+* Class 02 - [Future Link 2](https://snowdnsound.github.io/reading-notes/201/file2)
+* Class 03 - [Future Link 3](https://snowdnsound.github.io/reading-notes/201/file3)
+* Class 04 - [Future Link 4](https://snowdnsound.github.io/reading-notes/201/file4)
+* Class 05 - [Future Link 5](https://snowdnsound.github.io/reading-notes/201/file5)
+* Class 06 - [Future Link 6](https://snowdnsound.github.io/reading-notes/201/file6)
+* Class 07 - [Future Link 7](https://snowdnsound.github.io/reading-notes/201/file7)
+* Class 08 - [Future Link 8](https://snowdnsound.github.io/reading-notes/201/file8)
+* Class 09 - [Future Link 9](https://snowdnsound.github.io/reading-notes/201/file9)
+* Class 10 - [Future Link 10](https://snowdnsound.github.io/reading-notes/201/file10)
+* Class 11- [Future Link 11](https://snowdnsound.github.io/reading-notes/201/file11)
+* Class 12 - [Future Link 12](https://snowdnsound.github.io/reading-notes/201/file12)
+* Class 13 - [Future Link 13](https://snowdnsound.github.io/reading-notes/201/file13)
+* Class 14 - [Future Link 14](https://snowdnsound.github.io/reading-notes/201/file14)
+* Class 15 - [Future Link 15](https://snowdnsound.github.io/reading-notes/201/file15)
