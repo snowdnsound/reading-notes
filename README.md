@@ -9,7 +9,7 @@ This website contains all of my reading notes!
 
 ## **Table of Contents**
 
-### **Course 102**
+### **Code 102 Reading Notes**
 
 * Class 01 - [Learning Markdown](https://snowdnsound.github.io/reading-notes/102/markdown-notes)
 * Class 02 - [Coder's Computer](https://snowdnsound.github.io/reading-notes/102/coders-computer)
@@ -20,7 +20,7 @@ This website contains all of my reading notes!
 * Class 07 - [Programming with JavaScript](https://snowdnsound.github.io/reading-notes/102/programming-with-javascript)
 * Class 08 - [Operators and Loops](https://snowdnsound.github.io/reading-notes/102/operators-and-loops)
 
-### **Course 201**
+### **Code 201 Reading Notes**
 
 * Class 01 - [Future Link 1](https://snowdnsound.github.io/reading-notes/201/file1)
 * Class 02 - [Future Link 2](https://snowdnsound.github.io/reading-notes/201/file2)
