@@ -45,7 +45,7 @@ Place your message inside double quotes “”
 
 
 Reference Links:  
-https://blog.udemy.com/git-tutorial-a-comprehensive-guide/ 
+[Udemy Blog](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
   
 
 Answer These Questions: 
