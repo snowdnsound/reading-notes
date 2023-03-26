@@ -6,7 +6,7 @@ Here is a [link](https://github.com/snowdnsound) to my GitHub Portfolio!
 ![This is my band logo](HexCave_StandardColors_sv.png)
 
 This website contains all of my reading notes and links to journal entries!  
-[Growth Mindset](https://snowdnsound.github.io/reading-notes/102/growth-mindset)  
+[Growth Mindset](https://snowdnsound.github.io/reading-notes/growth-mindset)  
 
 ## **Table of Contents**
 
