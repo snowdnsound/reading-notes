@@ -10,7 +10,7 @@ This website contains all of my reading notes and links to journal entries!
 
 ## **Table of Contents**
 
-### **Code 102 Reading Notes**
+### **Code 102 - Intro to Software Development | Reading Notes**
 
 * Class 01 - [Learning Markdown](https://snowdnsound.github.io/reading-notes/102/markdown-notes)
 * Class 02 - [Coder's Computer](https://snowdnsound.github.io/reading-notes/102/coders-computer)
@@ -21,10 +21,10 @@ This website contains all of my reading notes and links to journal entries!
 * Class 07 - [Programming with JavaScript](https://snowdnsound.github.io/reading-notes/102/programming-with-javascript)
 * Class 08 - [Operators and Loops](https://snowdnsound.github.io/reading-notes/102/operators-and-loops)
 
-### **Code 201 Reading Notes**
+### **Code 201 - Foundations of Software Development | Reading Notes**
 
-* Class 01 - [Future Link 1](https://snowdnsound.github.io/reading-notes/201/file1)
-* Class 02 - [Future Link 2](https://snowdnsound.github.io/reading-notes/201/file2)
+* Class 01 - [Setup Developer Tool Belt](https://snowdnsound.github.io/reading-notes/201/file1)
+* Class 02 - [Introduction To Web Development](https://snowdnsound.github.io/reading-notes/201/file2)
 * Class 03 - [Future Link 3](https://snowdnsound.github.io/reading-notes/201/file3)
 * Class 04 - [Future Link 4](https://snowdnsound.github.io/reading-notes/201/file4)
 * Class 05 - [Future Link 5](https://snowdnsound.github.io/reading-notes/201/file5)
