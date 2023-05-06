@@ -27,7 +27,7 @@ This website contains all of my reading notes and links to journal entries!
 * Class 02 - [Introduction To Web Development](https://snowdnsound.github.io/reading-notes/201/file2)
 * Class 03 - [HTML Lists, Control Flow with JS, and the CSS Box Model](https://snowdnsound.github.io/reading-notes/201/file3)
 * Class 04 - [HTML Links, JS Functions, and Intro to CSS Layout](https://snowdnsound.github.io/reading-notes/201/file4)
-* Class 05 - [Future Link 5](https://snowdnsound.github.io/reading-notes/201/file5)
+* Class 05 - [Images, Color, Text](https://snowdnsound.github.io/reading-notes/201/file5)
 * Class 06 - [Future Link 6](https://snowdnsound.github.io/reading-notes/201/file6)
 * Class 07 - [Future Link 7](https://snowdnsound.github.io/reading-notes/201/file7)
 * Class 08 - [Future Link 8](https://snowdnsound.github.io/reading-notes/201/file8)
