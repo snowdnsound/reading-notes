@@ -28,7 +28,7 @@ This website contains all of my reading notes and links to journal entries!
 * Class 03 - [HTML Lists, Control Flow with JS, and the CSS Box Model](https://snowdnsound.github.io/reading-notes/201/file3)
 * Class 04 - [HTML Links, JS Functions, and Intro to CSS Layout](https://snowdnsound.github.io/reading-notes/201/file4)
 * Class 05 - [Images, Color, Text](https://snowdnsound.github.io/reading-notes/201/file5)
-* Class 06 - [Future Link 6](https://snowdnsound.github.io/reading-notes/201/file6)
+* Class 06 - [Problem Domain, Objects, and the DOM](https://snowdnsound.github.io/reading-notes/201/file6)
 * Class 07 - [Future Link 7](https://snowdnsound.github.io/reading-notes/201/file7)
 * Class 08 - [Future Link 8](https://snowdnsound.github.io/reading-notes/201/file8)
 * Class 09 - [Future Link 9](https://snowdnsound.github.io/reading-notes/201/file9)

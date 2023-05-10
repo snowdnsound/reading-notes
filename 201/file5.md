@@ -3,7 +3,7 @@
 
 
 
-# Learn CSS
+## Learn CSS & HTML
 
 ## Handy Links
 * [Using Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
