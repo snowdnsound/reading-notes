@@ -30,7 +30,7 @@ This website contains all of my reading notes and links to journal entries!
 * Class 05 - [Images, Color, Text](https://snowdnsound.github.io/reading-notes/201/file5)
 * Class 06 - [Problem Domain, Objects, and the DOM](https://snowdnsound.github.io/reading-notes/201/file6)
 * Class 07 - [Future Link 7](https://snowdnsound.github.io/reading-notes/201/file7)
-* Class 08 - [Future Link 8](https://snowdnsound.github.io/reading-notes/201/file8)
+* Class 08 - [CSS Layout & Flexbot](https://snowdnsound.github.io/reading-notes/201/file8)
 * Class 09 - [Future Link 9](https://snowdnsound.github.io/reading-notes/201/file9)
 * Class 10 - [Future Link 10](https://snowdnsound.github.io/reading-notes/201/file10)
 * Class 11- [Future Link 11](https://snowdnsound.github.io/reading-notes/201/file11)
