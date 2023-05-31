@@ -33,7 +33,7 @@ This website contains all of my reading notes and links to journal entries!
 * Class 08 - [CSS Layout & Flexbot](https://snowdnsound.github.io/reading-notes/201/file8)
 * Class 09 - [Forms and JS Events](https://snowdnsound.github.io/reading-notes/201/file9)
 * Class 10 - [Debugging](https://snowdnsound.github.io/reading-notes/201/file10)
-* Class 11- [Future Link 11](https://snowdnsound.github.io/reading-notes/201/file11)
+* Class 11- [Audio, Video, Images](https://snowdnsound.github.io/reading-notes/201/file11)
 * Class 12 - [Future Link 12](https://snowdnsound.github.io/reading-notes/201/file12)
 * Class 13 - [Future Link 13](https://snowdnsound.github.io/reading-notes/201/file13)
 * Class 14 - [Future Link 14](https://snowdnsound.github.io/reading-notes/201/file14)
