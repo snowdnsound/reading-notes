@@ -26,12 +26,12 @@ Charts are far better for displaying data visually than tables and have the adde
 
 ## Handy Links
 
-[JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
-[Chart.js Documentation](http://www.chartjs.org/docs/)
-[Stunning Annimated Chartts](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
-[Drawing Shapes with Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
-[Applying Style & Color](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
-[Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+* [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
+* [Chart.js Documentation](http://www.chartjs.org/docs/)
+* [Stunning Annimated Chartts](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+* [Drawing Shapes with Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+* [Applying Style & Color](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+* [Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
 
 ## Questions From the Reading
