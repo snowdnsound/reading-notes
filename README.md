@@ -36,5 +36,5 @@ This website contains all of my reading notes and links to journal entries!
 * Class 11- [Audio, Video, Images](https://snowdnsound.github.io/reading-notes/201/file11)
 * Class 12 - [Chart.js, Canvas](https://snowdnsound.github.io/reading-notes/201/file12)
 * Class 13 - [Local Storage](https://snowdnsound.github.io/reading-notes/201/file13)
-* Class 14 - [Future Link 14](https://snowdnsound.github.io/reading-notes/201/file14)
+* Class 14 - [Psychological Safety](https://snowdnsound.github.io/reading-notes/201/file14)
 * Class 15 - [Future Link 15](https://snowdnsound.github.io/reading-notes/201/file15)
