@@ -38,3 +38,7 @@ This website contains all of my reading notes and links to journal entries!
 * Class 13 - [Local Storage](https://snowdnsound.github.io/reading-notes/201/file13)
 * Class 14 - [Psychological Safety](https://snowdnsound.github.io/reading-notes/201/file14)
 * Class 15 - [Future Link 15](https://snowdnsound.github.io/reading-notes/201/file15)
+
+### **Code 301 - Intermediate Software Development | Reading Notes**
+
+### **Code 401 - Advanced Software Development | Reading Notes**
